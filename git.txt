@@ -1,0 +1,9 @@
+sistema distribuído -> cada um tem uma cópia completa
+
+git init
+git add
+commit
+
+git flow = master, hotfix, develop, feature
+
+mudança
